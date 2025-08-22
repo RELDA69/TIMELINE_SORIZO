@@ -1,0 +1,49 @@
+<html>
+<head>
+    <link title="timeline-styles" rel="stylesheet" 
+              href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <script type="text/javascript" language="javascript" src="whitney.json"></script>
+    
+    <script type="text/javascript">
+        $.getJSON("whitney.json", function (data) {
+                var timeline_json = data;
+            window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+            });
+    </script>
+    <!-- Google Font for a clean, modern look -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
+
+<style>
+  /* Page background */
+  body {
+    background-color: #f4f1ee; /* Soft neutral tone */
+    font-family: 'Inter', sans-serif;
+    color: #333;
+  }
+
+  /* Timeline container */
+  #timeline-embed {
+    background-color: #ffffff; /* Crisp white for contrast */
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  /* Optional: make sure timeline text uses the same font */
+  .tl-text-content,
+  .tl-headline,
+  .tl-media-caption,
+  .tl-menubar,
+  .tl-storyslider {
+    font-family: 'Inter', sans-serif !important;
+  }
+</style>
+
+</head>
+<body>      
+    <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+</body>
+</html>

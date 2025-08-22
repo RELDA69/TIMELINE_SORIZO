@@ -1,0 +1,154 @@
+{
+	"title": {
+		"media": {
+			"url": "img/neuralnetwork.webp",
+			"caption": "",
+			"credit": "<a https://www.the-scientist.com/artificial-neural-networks-learning-by-doing-71687/'>THE SCIENTIST</a>"
+		},
+		"text": {
+			"headline": "Early Models & AI Winter<br/> 1960-2012",
+			"text": "<p></p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+			"url": "img/JOSEPH.avif",
+			"caption": "German-American computer scientist and professor",
+			"credit": "<a href='https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai/'>THE GUARDIAN</a>"
+			},
+			"start_date": {
+				"month": "",
+				"day": "",
+				"year": "1966"
+			},		
+			"text": {
+			"headline": "JOSEPH WEIZENBAUM<br/> 1923 - 2008",
+			"text": "<p>Around 1952,Weizenbaum worked on analog computers and helped create a digital computer. In 1956, he worked for General Electric on ERMA, a computer system that introduced the use of the magnetically encoded fonts imprinted on the bottom border of checks, allowing automated check processing via magnetic ink character recognition (MICR). He published a short paper in Datamation in 1962 entitled HOW TO MAKE A COMPUTER INTELLIGENT that described the strategy used in a Gomoku program that could beat novice players.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "img/eliza.png",
+				"caption": "ELIZA THE FIRST EVER CHATBOT",
+				"credit": ":<a href='https://the-decoder.com/eliza-the-worlds-first-chatbot-is-back-online-after-six-decades-thanks-to-ai-historians'>THE DECODER</a>"
+			},
+			"start_date": {
+				"month": "",
+				"day": "",
+				"year": "1966"
+			},
+			"text": {
+				"headline": "ELIZA",
+				"text": "<p>Eliza is an early AI program, created in the 1966 by MIT computer scientist Joseph Weizenbaum, that simulates a conversation with a therapist using pattern matching and substitution. It was a cultural event that spurred early discussions about artificial intelligence and human-computer interaction, in addition to being a technological milestone.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.youtube.com/watch?v=zhxNI7V2IxM",
+				"caption": "",
+				"credit": "<a href=\"https://www.youtube.com/watch?v=zhxNI7V2IxM\">AI UNCOVERED</a>"
+			},
+			"start_date": {
+				"year": "1966"
+			},
+			"text": {
+				"headline": "HISTORY OF ALIZA",
+				"text": "THE WORLD'S FIRST PYSCHIATRIC CHATBOT."
+			}
+		},
+		{
+			"media": {
+				"url": "img/Adaline.gif",
+				"caption": "Adaptive Linear Neuron or later Adaptive Linear Element",
+				"credit": "<a href=\"https://en.wikipedia.org/wiki/ADALINE\">WIKIPEDIA</a>"
+			},
+			"start_date": {
+				"year": "1960"
+			},
+			"text": {
+				"headline": "ADALINE",
+				"text": "early single-layer artificial neural network and the name of the physical device that implemented it. It was developed by professor Bernard Widrow and his doctoral student Marcian Hoff at Stanford University in 1960."
+			}
+		},
+		{
+			"media": {
+				"url": "img/paulwerbos.jpg",
+				"caption": "PAUL WERBOS",
+				"credit": "<a href=\"https://www.ibm.com/think/topics/backpropagation\">IBM</a>"
+			},
+			"start_date": {
+				"year": "1974"
+			},
+			"text": {
+				"headline": "PAUL WERBOS",
+				"text": "Paul Werbos introduced the backpropagation algorithm, a method for training neural networks. While the foundational concept was laid out by Werbos, it took several years for the algorithm to gain widespread recognition and practical application in the field of machine learning."
+			}
+		},
+		{
+			"media": {
+				"url": "img/backpropagation.webp",
+				"caption": "BACKPROPAGATION",
+				"credit": "<a href=\"https://medium.com/@sallyrobotics.blog/backpropagation-and-its-alternatives-c09d306aae4c\">MEDIUM.COM</a>"
+			},
+			"start_date": {
+				"year": "1986"
+			},
+			"text": {
+				"headline": "BACKPROPAGATION",
+				"text": "is a learning algorithm that allows neural networks to adjust their internal weights by minimizing error essentially learning from mistakes. It is a gradient computation method commonly used for training a neural network in computing parameter updates."
+			}
+		},
+		{
+			"media": {
+				"url": "img/LSTM.jpg",
+				"caption": "LONG-SHORT TERM MEMORY",
+				"credit": "<a href=\"https://en.wikipedia.org/wiki/Long_short-term_memory\">WIKIPEDIA</a>"
+			},
+			"start_date": {
+				"year": "1997"
+			},
+			"text": {
+				"headline": "LSTM(LONG-SHORT TERM MEMORY)",
+				"text": "is a type of recurrent neural network (RNN) aimed at mitigating the vanishing gradient problem commonly encountered by traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models, and other sequence learning methods."
+			}
+		},
+		{
+			"media": {
+				"url": "img/Deepbelief.jpg",
+				"caption": "DEEP BELIEF",
+				"credit": "<a href=\"https://en.wikipedia.org/wiki/Deep_belief_network\">WIKIPEDIA</a>"
+			},
+			"start_date": {
+				"year": "2006"
+			},
+			"text": {
+				"headline": "DEEP BELIEF NETWORK",
+				"text": "(DBN) is a generative graphical model, or alternatively a class of deep neural network, composed of multiple layers of latent variables (hidden units), with connections between the layers but not between units within each layer."
+			}
+		},
+		{
+			"media": {
+				"url": "img/alexnet.png",
+				"caption": "ALEXNET",
+				"credit": "<a href=\"https://en.wikipedia.org/wiki/AlexNet\">WIKIPEDIA</a>"
+			},
+			"start_date": {
+				"year": "2012"
+			},
+			"text": {
+				"headline": "ALEXNET",
+				"text": "AlexNet is a convolutional neural network architecture developed for image classification tasks, notably achieving prominence through its performance in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC)."
+			}
+		},
+		{
+			"start_date":{
+				"year": "2025"
+			},
+			"text": {
+				"headline": "REFERENCES",
+				"text": "Bradford, S., PhD. (2024, March 1). Artificial Neural Networks: Learning by doing. The Scientist. https://www.the-scientist.com/artificial-neural-networks-learning-by-doing-71687, Tarnoff, B. (2023, September 1). Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI. The Guardian. https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai, Bastian, M. (2025, January 18). ELIZA, the world’s first chatbot, is back online after six decades thanks to AI historians. THE DECODER. https://the-decoder.com/eliza-the-worlds-first-chatbot-is-back-online-after-six-decades-thanks-to-ai-historians, Bergmann, D., & Stryker, C. (2025, July 22). Backpropagation. What is Backpropagation. https://www.ibm.com/think/topics/backpropagation, Wikipedia contributors. (2025, August 2). Long short-term memory. Wikipedia. https://en.wikipedia.org/wiki/Long_short-term_memory, Robotics, S. (2020, August 25). Backpropagation and its Alternatives. Medium. https://medium.com/@sallyrobotics.blog/backpropagation-and-its-alternatives-c09d306aae4c, Wikipedia contributors. (2025a, August 2). AlexNet. Wikipedia. https://en.wikipedia.org/wiki/AlexNet"
+			}
+		}
+	]
+}
